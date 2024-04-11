@@ -17,6 +17,7 @@
 - Mean Squared Error(MSE)
 - R² Score
 - [various other metrics](https://scikit-learn.org/stable/modules/model_evaluation.html)
+
 ![6](https://github.com/rishabh11336/Machine-Learning-Algorithms/blob/main/LinearRegression/Linear%20Regression%20Slides/6.png)
 
 ## R² score is coefficient which explain the variation of predicted value from actual value. Commonly Mean Squared Error(MSE) is also known as Least Squared Error.
